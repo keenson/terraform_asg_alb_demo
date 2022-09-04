@@ -8,4 +8,4 @@ export AWS_SECRET_ACCESS_KEY=******\*\*******
 ```
 
 
-![terrademo2](https://user-images.githubusercontent.com/42813410/188333293-b19dcbf8-bd3d-4c3a-86ff-6bc3f60259c0.png)
+![terrademo2](https://user-images.githubusercontent.com/42813410/188333936-9f3cc41d-044c-4081-afcb-5c73ab592e8e.png)
